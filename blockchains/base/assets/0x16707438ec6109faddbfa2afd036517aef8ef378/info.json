@@ -1,7 +1,17 @@
 {
-  "name": "Big Chungus",
-  "symbol": "CHNG",
-  "decimals": 18,
-  "description": "A big memecoin for everyone.",
-  "website": "https://chng.pages.dev"
+    "name": "Big Chungus",
+    "symbol": "CHNG",
+    "website": "https://chng.pages.dev",
+    "description": "A big memecoin for everyone.",
+    "explorer": "https://basescan.org/token/0x16707438eC6109faDdBFa2afd036517aef8EF378",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x16707438eC6109faDdBFa2afd036517aef8EF378",
+    "type": "BASE",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://x.com/BaseCHNG"
+        }
+    ]
 }
