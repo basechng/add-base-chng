@@ -10,8 +10,22 @@
     "type": "BASE",
     "links": [
         {
-            "name": "twitter",
+            "name": "forum",
+            "url": "https://warpcast.com/~/channel/chungus"
+        },
+        {
+             "name": "telegram",
+            "url": "https://t.me/BaseCHNG"
+        },
+        {
+            "name": "x",
             "url": "https://x.com/BaseCHNG"
-        }
+        }        
+    ],
+    "tags": [
+        "dapp",
+        "defi",
+        "memes",
+        "staking"
     ]
 }
